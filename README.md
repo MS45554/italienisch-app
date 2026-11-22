@@ -22,3 +22,7 @@ Die App liegt dann unter `https://<user>.github.io/italienisch-app/`.
 Auf dem iPhone in Safari öffnen → Teilen → „Zum Home-Bildschirm“.
 
 Nach Änderungen an Dateien in `sw.js` die `CACHE`-Version erhöhen.
+
+## Lizenz
+
+Frei für den privaten, nicht-kommerziellen Gebrauch. Details siehe [LICENSE](LICENSE).
